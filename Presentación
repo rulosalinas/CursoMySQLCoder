@@ -1,9 +1,9 @@
-Problema
+# Problema
 Se necesita desarrollar un sistema que permita llevar el control de la información de alumnos y profesores de un
 colegio Primario. Para ello el equipo de desarrollo necesita que se diseñe la base de datos para almacenar la
 información necesaria de forma eficiente utilizando la tecnología que mejor se adapte a los requerimientos del
 caso.
-Requisitos
+# Requisitos
 -Llevar registro de los alumnos inscriptos en la institución, dar de alta a los ingresantes y del tutor/es a cargo.
 -Al momento del alta del alumno se debe tener en cuenta el cupo establecido para cada aula.
 -Se debe almacenar información sobre los profesores que trabajan en la institución, su especialidad, cursos y
